@@ -1,0 +1,7 @@
+{
+  "name": "google-chart#gh-pages",
+  "private": true,
+  "dependencies": {
+    "google-chart": "GoogleWebComponents/google-chart#master"
+  }
+}
